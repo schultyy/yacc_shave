@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = YaccShave::VERSION
   spec.authors       = ["Jan Schulte"]
   spec.email         = ["hello@unexpected-co.de"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Shaving yaccs}
+  spec.description   = %q{Shaving yaccs}
   spec.homepage      = ""
   spec.license       = "MIT"
 
